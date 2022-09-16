@@ -11,8 +11,7 @@
     "require-dev": {
         "mockery/mockery": "^1.5.1",
         "orchestra/testbench": "^7.7",
-        "phpunit/phpunit": "^9.3",
-        "php-coveralls/php-coveralls": "^2.5"
+        "phpunit/phpunit": "^9.3"
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
